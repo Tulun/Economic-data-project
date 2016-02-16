@@ -1,0 +1,28 @@
+{
+  "name": "econ_project",
+  "version": "1.0.0",
+  "description": "Rendering econ data using d3.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tulun/Economic-data-project.git"
+  },
+  "keywords": [
+    "economics",
+    "node",
+    "d3"
+  ],
+  "author": "Jason Kiraly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tulun/Economic-data-project/issues"
+  },
+  "homepage": "https://github.com/Tulun/Economic-data-project#readme",
+  "dependencies": {
+    "hapi": "^13.0.0",
+    "inert": "^3.2.0"
+  }
+}
